@@ -1,0 +1,4 @@
+This is a file.
+It contains experiment 3 of Python Programming.
+This program calculates the number of lines, number of words and number of characters present in this file.
+Python is fun!
